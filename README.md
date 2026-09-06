@@ -8,7 +8,7 @@ AWS, GitHub Actions, MCP, Claude Code, and Codex.
 
 ## Flagship · [talkthrough-mcp](https://github.com/korovin-aa97/talkthrough-mcp)
 
-### Don't write a bug report. Record it.
+### Recordings in. Agent-ready evidence out.
 
 Give Claude Code or Codex a narrated `.mov` or `.mp4`. Talkthrough turns it into
 a searchable transcript, exact frames, OCR, speaker labels, and wall-clock
