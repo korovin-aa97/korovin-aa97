@@ -42,4 +42,4 @@ fix instead of guessing from vague prose.
 - Narrow, inspectable contracts for AI systems instead of magical black boxes.
 - Fail-closed boundaries where provenance, permissions, or state cannot be trusted.
 
-Barcelona, Spain · [LinkedIn](https://www.linkedin.com/in/alexander-korovin-a70886287/) · [Email](mailto:korovin.aa97@gmail.com)
+Barcelona, Spain · [LinkedIn](https://www.linkedin.com/in/alexander-korovin-ai/) · [Email](mailto:korovin.aa97@gmail.com)
