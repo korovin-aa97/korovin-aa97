@@ -16,7 +16,7 @@ evidence—locally—so the agent can draft a reproducible issue or investigate 
 fix instead of guessing from vague prose.
 
 [![PyPI](https://img.shields.io/pypi/v/talkthrough-mcp?style=flat-square&label=PyPI)](https://pypi.org/project/talkthrough-mcp/)
-[![GitHub stars](https://img.shields.io/github/stars/korovin-aa97/talkthrough-mcp?style=flat-square&label=Stars)](https://github.com/korovin-aa97/talkthrough-mcp/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/korovin-aa97/talkthrough-mcp?style=flat-square&label=Stars)](https://github.com/korovin-aa97/talkthrough-mcp)
 [![CI](https://img.shields.io/github/actions/workflow/status/korovin-aa97/talkthrough-mcp/ci.yml?style=flat-square&label=CI)](https://github.com/korovin-aa97/talkthrough-mcp/actions/workflows/ci.yml)
 
 [Watch the 78-second demo](https://youtu.be/nHfGfEiVdE8) ·
